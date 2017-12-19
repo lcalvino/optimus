@@ -1,7 +1,7 @@
 {
   "_class": "shapePath",
   "booleanOperation": -1,
-  "do_objectID": "686DA4BD-AC04-4B84-B89D-88C4FE6D52C4",
+  "do_objectID": "B42AC55B-D87B-485C-9C58-63D242E6F69A",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33.00000000000006,
-    "width": 36.00000000000001,
-    "x": 36,
-    "y": 1.13686837721616e-13
+    "height": 67.389827551385,
+    "width": 2,
+    "x": -1.4210854715202e-14,
+    "y": 0
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -34,33 +34,23 @@
     "points": [
       {
         "_class": "curvePoint",
-        "cornerRadius": 0,
-        "curveFrom": "{-1.0000000000000002, 1}",
-        "curveMode": 1,
-        "curveTo": "{-1.0000000000000002, 1}",
-        "hasCurveFrom": false,
-        "hasCurveTo": false,
-        "point": "{-1.0000000000000002, 1}"
-      },
-      {
-        "_class": "curvePoint",
         "cornerRadius": 15,
-        "curveFrom": "{0.99999999999998723, 0.99999999999999678}",
+        "curveFrom": "{0.49999999999997158, 0.99999999999999922}",
         "curveMode": 1,
-        "curveTo": "{0.99999999999998723, 0.99999999999999678}",
+        "curveTo": "{0.49999999999997158, 0.99999999999999922}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0.99999999999998723, 0.99999999999999678}"
+        "point": "{0.49999999999997158, 0.99999999999999922}"
       },
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0.99999999999998523, -6.4345522233514829e-17}",
+        "curveFrom": "{0.49999999999991473, -2.7800951896284347e-17}",
         "curveMode": 1,
-        "curveTo": "{0.99999999999998523, -6.4345522233514829e-17}",
+        "curveTo": "{0.49999999999991473, -2.7800951896284347e-17}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0.99999999999998523, 0}"
+        "point": "{0.49999999999991473, 0}"
       }
     ]
   },

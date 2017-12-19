@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "4445DDA3-A31B-4F07-9F14-598179C0F946",
+  "do_objectID": "A115D577-C9D8-4F61-98F9-0741BCB94EE5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,14 +14,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 72.00000000000001,
-    "x": 307,
-    "y": 99
+    "height": 2,
+    "width": 2,
+    "x": 306.0000000000001,
+    "y": 130.9999999999999
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFlippedHorizontal": false,
+  "isFlippedHorizontal": true,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
@@ -29,14 +29,14 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "7271F1AD-C3C6-48FB-9D6F-4045FC4B4B55"
+      "id": "A820A3CD-2F7E-4A5D-90AD-AD9D144D694A"
     }
   ],
-  "name": "Path 3 Copy 4",
+  "name": "Path 3 Copy 5",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 180,
+  "rotation": 360,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

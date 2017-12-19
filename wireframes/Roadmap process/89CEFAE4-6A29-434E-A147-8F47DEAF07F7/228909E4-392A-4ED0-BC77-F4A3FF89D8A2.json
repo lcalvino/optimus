@@ -24,7 +24,7 @@
     "height": 19,
     "width": 140,
     "x": 115,
-    "y": 333
+    "y": 333.0000000000001
   },
   "glyphBounds": "{{0, 3}, {140, 16}}",
   "heightIsClipped": false,

@@ -26,7 +26,7 @@
     "y": -1175
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,12 +42,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "A85CE400-9D12-4A39-8D47-D23A446534AB"
+      "class": "shapeGroup",
+      "id": "FBB5FD5E-53E2-4D6A-8FA2-40D5C6E3F244"
     },
     {
       "class": "symbolInstance",
-      "id": "06C79A03-E402-43DD-81B6-C46A4D72C94F"
+      "id": "A85CE400-9D12-4A39-8D47-D23A446534AB"
     },
     {
       "class": "shapeGroup",
@@ -79,11 +79,7 @@
     },
     {
       "class": "shapeGroup",
-      "id": "C0BE6DD6-F7A6-4EC2-8B0F-7CC508AC6A66"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "4445DDA3-A31B-4F07-9F14-598179C0F946"
+      "id": "A115D577-C9D8-4F61-98F9-0741BCB94EE5"
     },
     {
       "class": "text",
@@ -91,7 +87,15 @@
     },
     {
       "class": "text",
+      "id": "F1AAE2C3-09CE-47B1-9989-7317722D8749"
+    },
+    {
+      "class": "text",
       "id": "83A39CB5-4E9B-489C-A137-82CD432472F7"
+    },
+    {
+      "class": "text",
+      "id": "4B148B89-7433-42B3-9BE7-5469B886CF5D"
     },
     {
       "class": "text",
@@ -116,6 +120,10 @@
     {
       "class": "text",
       "id": "228909E4-392A-4ED0-BC77-F4A3FF89D8A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06C79A03-E402-43DD-81B6-C46A4D72C94F"
     }
   ],
   "name": "iPhone 8 Copy 5",

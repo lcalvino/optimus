@@ -23,7 +23,7 @@
     "height": 667,
     "width": 375,
     "x": 382,
-    "y": -184
+    "y": -1175
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -60,14 +60,6 @@
     {
       "class": "symbolInstance",
       "id": "870231BB-6C0D-45B9-97C4-561A1F56B0C6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "60C9B2DC-FEC5-4E5B-936A-9737088EB152"
-    },
-    {
-      "class": "text",
-      "id": "8AC8C885-EEA8-4784-9EBB-23613F7DF88B"
     },
     {
       "class": "text",
