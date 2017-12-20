@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "do_objectID": "5BF417BC-3B6B-43A7-9CC3-255E430C8F8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 588,
+    "y": 182
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D29DDE52-514C-4E3A-BF6D-C880EABCEA60"
+    },
+    {
+      "class": "group",
+      "id": "94E380EE-62AE-496E-BC24-7BEB9DA20373"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF2ADF56-16AF-40DE-82E3-969CEA4F77CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7EF33637-B93B-4DF2-B654-06C796D0452C"
+    },
+    {
+      "class": "group",
+      "id": "DE542EE3-B943-4C95-B144-D26995370BDD"
+    },
+    {
+      "class": "group",
+      "id": "2ED6C1FC-5F32-4138-A386-1CE9279EDC76"
+    },
+    {
+      "class": "group",
+      "id": "15CF7088-648D-4E9A-BA15-81DA01FD4179"
+    },
+    {
+      "class": "group",
+      "id": "5961D6CD-CF9B-4E6A-A2B2-268CB7296EF7"
+    },
+    {
+      "class": "group",
+      "id": "1EEFA648-61FE-48C9-AE7F-5A0E34F91151"
+    },
+    {
+      "class": "group",
+      "id": "5E936EF2-D939-4307-9E50-C73417808EFF"
+    },
+    {
+      "class": "text",
+      "id": "425DB718-5FA8-4E43-9774-C94E726BA715"
+    }
+  ],
+  "name": "New Question Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
