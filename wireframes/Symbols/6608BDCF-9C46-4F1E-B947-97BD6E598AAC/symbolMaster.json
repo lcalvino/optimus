@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 872,
+  "changeIdentifier": 879,
   "do_objectID": "6608BDCF-9C46-4F1E-B947-97BD6E598AAC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 2
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -74,6 +74,7 @@
   ],
   "name": "Tabbar",
   "nameIsFixed": false,
+  "originalObjectID": "6608BDCF-9C46-4F1E-B947-97BD6E598AAC",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

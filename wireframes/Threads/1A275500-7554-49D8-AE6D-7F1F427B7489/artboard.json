@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9607843137254902,
-    "green": 0.9607843137254902,
-    "red": 0.9607843137254902
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "do_objectID": "1A275500-7554-49D8-AE6D-7F1F427B7489",
   "exportOptions": {
@@ -23,10 +23,10 @@
     "height": 667,
     "width": 375,
     "x": -816,
-    "y": 176
+    "y": 160
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 1,
@@ -58,20 +58,20 @@
       "id": "37C9066C-90DC-498D-A48C-8E4714B36AC9"
     },
     {
-      "class": "group",
-      "id": "820835E0-2800-40D7-B011-88EB974F6E2C"
+      "class": "symbolInstance",
+      "id": "5BDB678D-6CF1-4636-90AC-168251465ACE"
     },
     {
       "class": "group",
-      "id": "689C191F-DEA3-4B74-B471-64F761A1D4EF"
+      "id": "016506F5-987A-46FA-8582-2E8F487960EA"
+    },
+    {
+      "class": "group",
+      "id": "AC8BEAC4-D507-4EB9-83AA-B9339AEBBDF3"
     },
     {
       "class": "text",
-      "id": "3744043D-FBC2-4AD9-8C3D-69A23F8EB43D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5BDB678D-6CF1-4636-90AC-168251465ACE"
+      "id": "C3FB458F-70CB-497F-BA8D-ED9F743F5B12"
     }
   ],
   "name": "Threads-important",

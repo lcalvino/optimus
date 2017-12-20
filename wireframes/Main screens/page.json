@@ -34,11 +34,15 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "7DC07F94-8C87-4B18-BC5D-D471B157EF54"
+      "id": "8B7125D5-F79E-43BE-B38E-F51F895C2EB7"
     },
     {
       "class": "artboard",
-      "id": "BE39D4AB-4450-4815-8638-B77B4E2827E4"
+      "id": "CACB6A0D-B845-4FFC-80D2-E3D8697875DA"
+    },
+    {
+      "class": "artboard",
+      "id": "987F1743-DDC5-4091-990E-001D8AE86983"
     }
   ],
   "name": "Main screens",

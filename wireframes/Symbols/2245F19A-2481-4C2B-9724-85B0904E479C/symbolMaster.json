@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1181,
+  "changeIdentifier": 1185,
   "do_objectID": "2245F19A-2481-4C2B-9724-85B0904E479C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 2
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,7 +54,7 @@
   ],
   "name": "Footer inactive",
   "nameIsFixed": true,
-  "originalObjectID": "A76ECA58-CDD1-47CD-9AFA-32FFF8781FAD",
+  "originalObjectID": "2245F19A-2481-4C2B-9724-85B0904E479C",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
