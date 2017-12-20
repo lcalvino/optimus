@@ -26,7 +26,7 @@
     "y": -47
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,15 +39,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "38B17153-E6C6-4508-B1B0-66F7496EBD40"
+      "id": "BE23C97F-6175-4699-BACA-B4B40C9E5068"
     },
     {
       "class": "symbolInstance",
-      "id": "BE23C97F-6175-4699-BACA-B4B40C9E5068"
+      "id": "3FFE444D-E042-4865-A609-583776953087"
     }
   ],
   "name": "Threads",
