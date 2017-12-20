@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "do_objectID": "F1970C91-2B79-4220-AA7F-534FD9BB00D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 851,
+    "y": -47
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CF258FAF-9CC4-4336-8BC9-7C5327F80411"
+    },
+    {
+      "class": "group",
+      "id": "9B1EB8C2-A6A3-4FE3-B3D6-3AB0D27AF8FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF768E89-53E7-4779-8DD8-5F11702477D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8CAF275-3FB7-40A5-BFB0-DFD51D36CBF7"
+    },
+    {
+      "class": "group",
+      "id": "CF211BE2-61EF-4E8A-95FE-A1049FE12BB4"
+    },
+    {
+      "class": "group",
+      "id": "E2B122BB-19D5-45BD-9947-2B617D17531A"
+    },
+    {
+      "class": "group",
+      "id": "07643574-2B00-471E-BA34-621CE1FE3B8C"
+    },
+    {
+      "class": "group",
+      "id": "D5339ECC-BB85-4414-87BB-72457D788551"
+    },
+    {
+      "class": "group",
+      "id": "5B554931-AC2A-4C91-8505-6BD95331E0AE"
+    },
+    {
+      "class": "group",
+      "id": "3A3D5BA6-4098-4708-AA70-F9C21B34D4E0"
+    },
+    {
+      "class": "text",
+      "id": "B670052D-5676-4B6E-899B-8CD03AF8F529"
+    }
+  ],
+  "name": "New Question Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

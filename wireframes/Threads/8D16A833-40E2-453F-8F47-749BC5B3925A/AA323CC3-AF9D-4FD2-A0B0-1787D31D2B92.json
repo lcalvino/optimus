@@ -34,11 +34,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "84C4D0F4-24B1-4426-807C-4474552F4704_stringValue",
-      "value": "New Question"
+      "value": "New Thread"
     }
   ],
   "overrides": {
-    "84C4D0F4-24B1-4426-807C-4474552F4704": "New Question"
+    "84C4D0F4-24B1-4426-807C-4474552F4704": "New Thread"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

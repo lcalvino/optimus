@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "do_objectID": "6332286D-D696-424D-AA71-482A34F50C4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 1693,
+    "y": 786
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D860EC10-26B1-41BD-BA75-04F5C95F3DCC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32CE5927-D072-43C6-B033-3AC0DB44607A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE9EA2B5-E729-471D-B875-4DBCEA97D9E5"
+    },
+    {
+      "class": "text",
+      "id": "209C417B-1197-4C27-B753-F5028C98680E"
+    },
+    {
+      "class": "group",
+      "id": "1DC37CD8-D3C5-4C86-8291-77156DE3FA8D"
+    },
+    {
+      "class": "group",
+      "id": "347AEDF9-EA05-44FD-8E61-7091AD045531"
+    },
+    {
+      "class": "text",
+      "id": "0488529E-F6C0-427D-9EF1-1767A937CF3B"
+    },
+    {
+      "class": "group",
+      "id": "8EA70479-D761-4876-B4E1-00EF6C0B728D"
+    },
+    {
+      "class": "group",
+      "id": "A4B71C91-43A2-4C7E-A2C0-BE00DC03A795"
+    },
+    {
+      "class": "group",
+      "id": "F70EECE9-DF0D-4E93-AF6D-B14B3120802B"
+    },
+    {
+      "class": "group",
+      "id": "EDC24A0F-E716-41A7-8F60-3833A7D41E08"
+    }
+  ],
+  "name": "New Question Copy 3",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

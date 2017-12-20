@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "E2B122BB-19D5-45BD-9947-2B617D17531A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 335,
+    "x": 20,
+    "y": 84
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9A9F99A6-69EF-4728-AE77-8F511AE7695A"
+    },
+    {
+      "class": "group",
+      "id": "DE20BDF0-23D4-4603-B307-23C497A013F2"
+    },
+    {
+      "class": "group",
+      "id": "945B5007-95B6-4A25-BF31-1E69A1CE2FA9"
+    }
+  ],
+  "name": "Navigation/Nav Bar/3 Tabs - First",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

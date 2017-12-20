@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 109,
+    "height": 36,
     "width": 335,
     "x": 20,
-    "y": 137
+    "y": 560
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -34,8 +34,12 @@
       "id": "05E67B11-8EB6-43D5-A3EA-0F8042B77579"
     },
     {
-      "class": "text",
-      "id": "11B9B20A-8C71-4E4F-B10C-CF9A8CC6F375"
+      "class": "group",
+      "id": "80A1407D-5A92-4CAC-AAF6-FDF6034CD4B9"
+    },
+    {
+      "class": "group",
+      "id": "7FCE8C01-77C9-4BAB-8A40-0AF3A702D440"
     }
   ],
   "name": "Inputs/Text/Active + Label",
