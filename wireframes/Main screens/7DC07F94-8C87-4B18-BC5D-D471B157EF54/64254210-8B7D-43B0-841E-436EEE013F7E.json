@@ -24,88 +24,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 2,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Tabbar",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "40C51A2D-1AC9-4A01-ACC9-44258ED4DB4D",
-      "overrideName": "E1E5EB43-9876-45CF-BEFF-FE5784B0CA64/E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567_stringValue",
-      "value": "Roadmap"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "0541D8A5-D3A0-4A58-BE4A-1D3CE8B85FCA",
-      "overrideName": "971EA89B-6097-49F0-A61A-E2648782938C_symbolID",
-      "value": "51A2113D-AC37-4615-9C93-754FB1AB25BA"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "3E9A5AC9-1797-4D45-9E84-135574BEE549",
-      "overrideName": "971EA89B-6097-49F0-A61A-E2648782938C/0328E3AE-671B-457F-9A4D-A11D8F03CF13_stringValue",
-      "value": "Dashboard"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E69760D4-32D6-4305-8C23-CBE51CD4EC2C",
-      "overrideName": "BDDED6EF-1AAF-4F9E-81A1-1930DF5AA579_symbolID",
-      "value": "51A2113D-AC37-4615-9C93-754FB1AB25BA"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D841937F-734C-4E7F-94F3-4CD15C4B6BBB",
-      "overrideName": "BDDED6EF-1AAF-4F9E-81A1-1930DF5AA579/0328E3AE-671B-457F-9A4D-A11D8F03CF13_stringValue",
-      "value": "Threads"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "798CE4C5-140F-4FB7-B1D1-424588776901",
-      "overrideName": "64DE640B-964E-43A5-A2E1-0A220F40FEBD_symbolID",
-      "value": "51A2113D-AC37-4615-9C93-754FB1AB25BA"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "0E92301E-2B38-4DAE-A775-BE277466B415",
-      "overrideName": "64DE640B-964E-43A5-A2E1-0A220F40FEBD/0328E3AE-671B-457F-9A4D-A11D8F03CF13_stringValue",
-      "value": "Schedule"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "C7078B27-8BCB-4B82-B9AB-3D4F0646D37A",
-      "overrideName": "EA03B455-BE44-4C4B-A1EC-22EBD1C0D17A_symbolID",
-      "value": "51A2113D-AC37-4615-9C93-754FB1AB25BA"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "3781F089-9C0B-4E8D-8BF2-AA3B957C0A7A",
-      "overrideName": "EA03B455-BE44-4C4B-A1EC-22EBD1C0D17A/0328E3AE-671B-457F-9A4D-A11D8F03CF13_stringValue",
-      "value": "Settings"
-    }
   ],
   "overrides": {
-    "64DE640B-964E-43A5-A2E1-0A220F40FEBD": {
-      "0328E3AE-671B-457F-9A4D-A11D8F03CF13": "Schedule",
-      "symbolID": "51A2113D-AC37-4615-9C93-754FB1AB25BA"
-    },
-    "971EA89B-6097-49F0-A61A-E2648782938C": {
-      "0328E3AE-671B-457F-9A4D-A11D8F03CF13": "Dashboard",
-      "symbolID": "51A2113D-AC37-4615-9C93-754FB1AB25BA"
-    },
-    "BDDED6EF-1AAF-4F9E-81A1-1930DF5AA579": {
-      "0328E3AE-671B-457F-9A4D-A11D8F03CF13": "Threads",
-      "symbolID": "51A2113D-AC37-4615-9C93-754FB1AB25BA"
-    },
-    "E1E5EB43-9876-45CF-BEFF-FE5784B0CA64": {
-      "E29F0566-8B8A-4BE7-AC28-FFD4FBFF2567": "Roadmap"
-    },
-    "EA03B455-BE44-4C4B-A1EC-22EBD1C0D17A": {
-      "0328E3AE-671B-457F-9A4D-A11D8F03CF13": "Settings",
-      "symbolID": "51A2113D-AC37-4615-9C93-754FB1AB25BA"
-    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

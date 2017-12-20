@@ -26,7 +26,7 @@
     "y": -601
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -43,11 +43,11 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "A6C2518A-F5C7-4329-A251-FF0A4B6122F2"
+      "id": "477710A4-1498-4DED-985A-B3057560E4BE"
     },
     {
-      "class": "group",
-      "id": "54C00FDB-5970-4E9B-A389-100280A93318"
+      "class": "symbolInstance",
+      "id": "A6C2518A-F5C7-4329-A251-FF0A4B6122F2"
     },
     {
       "class": "shapeGroup",
