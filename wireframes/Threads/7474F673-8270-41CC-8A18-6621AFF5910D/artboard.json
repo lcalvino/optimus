@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 159,
-    "y": 963
+    "x": 168,
+    "y": -601
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -67,18 +67,37 @@
     },
     {
       "class": "group",
-      "id": "6549072F-2258-42DC-82C1-C371C2559EEC"
+      "id": "189709BF-F342-4550-91DA-807B54072B44"
     },
     {
       "class": "group",
-      "id": "07BFB0AD-0836-4009-9948-5EF4E512C549"
+      "id": "A06206F4-848B-46E7-AC0F-6ECE42C3286B"
+    },
+    {
+      "class": "group",
+      "id": "368E8F21-C5F4-4026-AC68-3FF368DCF91B"
     },
     {
       "class": "group",
       "id": "791BE14A-E144-4082-ACDD-90872CD6FC07"
     }
   ],
-  "name": "New Question Copy 3",
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 26.25,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "New Question",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
