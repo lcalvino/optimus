@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 382,
+    "x": 390,
     "y": -1175
   },
   "hasBackgroundColor": false,
@@ -42,8 +42,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "870231BB-6C0D-45B9-97C4-561A1F56B0C6"
+    },
+    {
       "class": "shapeGroup",
-      "id": "95784DEB-7098-4CA4-B841-8C6160F7BD88"
+      "id": "E182F62A-FF10-4E89-893B-2974ADD4CF6A"
     },
     {
       "class": "text",
@@ -51,31 +55,59 @@
     },
     {
       "class": "text",
-      "id": "DDDF7194-F1F2-4511-B778-A9343BCDC067"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "870231BB-6C0D-45B9-97C4-561A1F56B0C6"
+      "id": "041CC684-AE9B-4666-95B9-4F14F95AAEE1"
     },
     {
       "class": "text",
-      "id": "710D38BC-363D-47DF-8EB5-A2D740A858A4"
+      "id": "5B632859-D901-4900-B470-A5910A5DE708"
+    },
+    {
+      "class": "text",
+      "id": "C282F4DB-3C28-4071-8FDF-D3386E8ED8DD"
+    },
+    {
+      "class": "text",
+      "id": "C6EA7030-8D2C-4784-9B3F-D3342FF1E16B"
+    },
+    {
+      "class": "text",
+      "id": "DDDF7194-F1F2-4511-B778-A9343BCDC067"
     },
     {
       "class": "shapeGroup",
-      "id": "6EE85A4F-EAC9-4BE0-887C-BBC1E401AC07"
+      "id": "8867D409-CAE8-4CE8-B700-85BF1CE91467"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BEABB93E-B3D0-4964-AE76-CA024FE64117"
     },
     {
       "class": "shapeGroup",
-      "id": "C280A4B6-D2FC-49FE-9F9B-88FB74207EFE"
+      "id": "7E075755-C754-4353-82AE-3902EF8097BE"
     },
     {
       "class": "shapeGroup",
-      "id": "75ABF203-9449-4E81-8B33-F308E90CAD4F"
+      "id": "8405C245-0E60-4268-9420-A3EF765CE6DB"
     },
     {
       "class": "shapeGroup",
-      "id": "52ABA073-7DDA-4ADE-8C5D-FE3B0F5EDE12"
+      "id": "FCB87A83-628F-4153-B658-1CE25C57C7FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C7B7C76-FC70-41F3-A347-8C1954667E22"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5C791BEC-DEE8-479D-B626-C6049BDF2196"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB630596-A0F1-4F0B-8759-EA1F0B9B7332"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "69114680-1024-427C-87BE-8B8F9861BB21"
     }
   ],
   "name": "iPhone 8 Copy 2",

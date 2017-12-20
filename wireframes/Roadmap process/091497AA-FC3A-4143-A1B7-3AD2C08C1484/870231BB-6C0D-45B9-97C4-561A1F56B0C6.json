@@ -40,12 +40,12 @@
       "_class": "overrideValue",
       "do_objectID": "EB4702B0-F3C0-442A-86B6-9F32D9016B9C",
       "overrideName": "D62AD622-40FF-4B70-86FC-14CC450387B0_stringValue",
-      "value": "Goal Details"
+      "value": "Session details"
     }
   ],
   "overrides": {
     "84C4D0F4-24B1-4426-807C-4474552F4704": "Roadmap details",
-    "D62AD622-40FF-4B70-86FC-14CC450387B0": "Goal Details"
+    "D62AD622-40FF-4B70-86FC-14CC450387B0": "Session details"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

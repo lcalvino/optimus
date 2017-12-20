@@ -59,10 +59,6 @@
     },
     {
       "class": "shapeGroup",
-      "id": "7164BEE7-D422-40AA-ABCD-D857FE56CF63"
-    },
-    {
-      "class": "shapeGroup",
       "id": "733B6FFA-2FE7-48EA-888B-7745C2673343"
     },
     {
@@ -76,6 +72,10 @@
     {
       "class": "shapeGroup",
       "id": "A115D577-C9D8-4F61-98F9-0741BCB94EE5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4045EB80-6F32-40FC-AA25-4BE5AAC1BD6E"
     },
     {
       "class": "text",
