@@ -24,9 +24,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "NavBar",
   "nameIsFixed": false,
@@ -35,10 +35,17 @@
       "_class": "overrideValue",
       "overrideName": "84C4D0F4-24B1-4426-807C-4474552F4704_stringValue",
       "value": "Roadmap"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D80551BD-2053-4AA7-B699-940274D2CF6B",
+      "overrideName": "D62AD622-40FF-4B70-86FC-14CC450387B0_stringValue",
+      "value": "Roadmap"
     }
   ],
   "overrides": {
-    "84C4D0F4-24B1-4426-807C-4474552F4704": "Roadmap"
+    "84C4D0F4-24B1-4426-807C-4474552F4704": "Roadmap",
+    "D62AD622-40FF-4B70-86FC-14CC450387B0": "Roadmap"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

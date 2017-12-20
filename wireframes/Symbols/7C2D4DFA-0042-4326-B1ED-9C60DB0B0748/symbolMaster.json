@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 6,
   "do_objectID": "7C2D4DFA-0042-4326-B1ED-9C60DB0B0748",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,15 +41,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "DB5D7402-88D8-4107-B482-56BA1851582D"
+      "id": "40794BD4-75E9-48C0-A309-1C503B537858"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "000474BE-DAA0-445B-8CF0-1A5B51FA39D0"
     },
     {
       "class": "text",
-      "id": "84C4D0F4-24B1-4426-807C-4474552F4704"
+      "id": "D62AD622-40FF-4B70-86FC-14CC450387B0"
     }
   ],
   "name": "NavBar",

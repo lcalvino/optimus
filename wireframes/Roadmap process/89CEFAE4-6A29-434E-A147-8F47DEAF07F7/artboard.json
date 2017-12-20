@@ -46,10 +46,6 @@
       "id": "FBB5FD5E-53E2-4D6A-8FA2-40D5C6E3F244"
     },
     {
-      "class": "symbolInstance",
-      "id": "A85CE400-9D12-4A39-8D47-D23A446534AB"
-    },
-    {
       "class": "shapeGroup",
       "id": "E3C2AE01-90AC-4413-A18A-973A942065BA"
     },
@@ -124,6 +120,10 @@
     {
       "class": "symbolInstance",
       "id": "06C79A03-E402-43DD-81B6-C46A4D72C94F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A11841B8-0FBE-4585-918F-AFD3C628A90B"
     }
   ],
   "name": "iPhone 8 Copy 5",

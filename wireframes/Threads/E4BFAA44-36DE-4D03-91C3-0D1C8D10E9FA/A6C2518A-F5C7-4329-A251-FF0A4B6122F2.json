@@ -24,9 +24,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "NavBar",
   "nameIsFixed": false,
@@ -35,10 +35,17 @@
       "_class": "overrideValue",
       "overrideName": "84C4D0F4-24B1-4426-807C-4474552F4704_stringValue",
       "value": "Thread Detail"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F70B934A-3669-4066-BF24-5FB24D7CC4BD",
+      "overrideName": "D62AD622-40FF-4B70-86FC-14CC450387B0_stringValue",
+      "value": "Thread Details"
     }
   ],
   "overrides": {
-    "84C4D0F4-24B1-4426-807C-4474552F4704": "Thread Detail"
+    "84C4D0F4-24B1-4426-807C-4474552F4704": "Thread Detail",
+    "D62AD622-40FF-4B70-86FC-14CC450387B0": "Thread Details"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

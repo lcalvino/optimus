@@ -26,7 +26,7 @@
     "y": -47
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,15 +39,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "64254210-8B7D-43B0-841E-436EEE013F7E"
+      "id": "E445F190-4A48-43AF-B9B2-FDC3B38FF679"
     },
     {
       "class": "symbolInstance",
-      "id": "E445F190-4A48-43AF-B9B2-FDC3B38FF679"
+      "id": "AABB88CB-57A3-4EC6-B816-CE81B528AE37"
     }
   ],
   "name": "Roadmap",

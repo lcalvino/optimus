@@ -34,11 +34,19 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "224AC017-B848-43D3-82BB-A7A0DB71D13A"
+      "id": "7C2D4DFA-0042-4326-B1ED-9C60DB0B0748"
     },
     {
       "class": "symbolMaster",
-      "id": "7C2D4DFA-0042-4326-B1ED-9C60DB0B0748"
+      "id": "6608BDCF-9C46-4F1E-B947-97BD6E598AAC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2C5F5734-8EAD-4D72-8DA6-7CB330CAA239"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2245F19A-2481-4C2B-9724-85B0904E479C"
     }
   ],
   "name": "Symbols",

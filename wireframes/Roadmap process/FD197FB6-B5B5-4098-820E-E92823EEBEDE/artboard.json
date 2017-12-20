@@ -42,10 +42,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "F2447087-B330-479D-9A05-66C7BDFC2BD0"
-    },
-    {
       "class": "shapeGroup",
       "id": "B13516C1-C838-4ADA-BAFA-5E59D367E0B3"
     },
@@ -164,6 +160,10 @@
     {
       "class": "shapeGroup",
       "id": "728B399B-E162-4A06-9B1F-1E5EC5590E9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35884D0A-F392-4C00-912B-CFA8825E0312"
     }
   ],
   "name": "iPhone 8",
