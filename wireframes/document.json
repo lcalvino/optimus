@@ -35,11 +35,12 @@
     "Main screens",
     "Threads",
     "Roadmap process",
-    "Symbols"
+    "Symbols",
+    "Desktop"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
-      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":12924256,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":12912704,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
     }
   }
 }
