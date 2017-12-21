@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 35,
-    "width": 344,
-    "x": 16,
+    "width": 300,
+    "x": 60,
     "y": 632
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -36,10 +36,6 @@
     {
       "class": "text",
       "id": "DEF22ECD-0F9E-4433-A457-5C36B8AAA583"
-    },
-    {
-      "class": "group",
-      "id": "F27F0CEE-ED28-4118-A422-CE2940A35D21"
     }
   ],
   "name": "Message Input",

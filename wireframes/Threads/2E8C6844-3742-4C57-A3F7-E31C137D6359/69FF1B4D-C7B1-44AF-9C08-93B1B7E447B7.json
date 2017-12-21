@@ -40,12 +40,12 @@
     {
       "_class": "overrideValue",
       "overrideName": "D62AD622-40FF-4B70-86FC-14CC450387B0_stringValue",
-      "value": "My Message Title"
+      "value": "Shared Files"
     }
   ],
   "overrides": {
     "84C4D0F4-24B1-4426-807C-4474552F4704": "Thread Detail",
-    "D62AD622-40FF-4B70-86FC-14CC450387B0": "My Message Title"
+    "D62AD622-40FF-4B70-86FC-14CC450387B0": "Shared Files"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 692,
     "width": 375,
-    "x": -159,
+    "x": 851,
     "y": 420
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -72,6 +72,10 @@
     {
       "class": "group",
       "id": "CBD2C62C-D205-4890-83B8-439B042CB117"
+    },
+    {
+      "class": "group",
+      "id": "7E5215EC-EE75-4B8C-83D4-7AFBE442FF24"
     }
   ],
   "name": "Thread Detail-more",
