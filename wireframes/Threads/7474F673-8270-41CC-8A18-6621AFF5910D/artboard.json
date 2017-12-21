@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 730,
+    "height": 744,
     "width": 375,
-    "x": 74,
-    "y": -664
+    "x": -119,
+    "y": -725
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -88,6 +88,10 @@
     {
       "class": "text",
       "id": "57725613-90EB-4833-A2F1-D0AD53EB8100"
+    },
+    {
+      "class": "text",
+      "id": "A65AE26C-DD7C-4A93-AE79-D0A2413E2BC1"
     },
     {
       "class": "shapeGroup",

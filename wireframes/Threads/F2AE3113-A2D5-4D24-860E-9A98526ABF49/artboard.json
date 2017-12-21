@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 692,
     "width": 375,
-    "x": 608,
-    "y": 160
+    "x": -159,
+    "y": 420
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -62,28 +62,12 @@
       "id": "C5738F8F-F3D5-489B-A4F9-7C39C9CD1FD9"
     },
     {
-      "class": "shapeGroup",
-      "id": "9800AAA9-F7A8-417B-B9BA-B1FD48E7021F"
-    },
-    {
-      "class": "text",
-      "id": "C898D9FD-C4F1-4EAF-8452-0FB075075B32"
-    },
-    {
-      "class": "text",
-      "id": "EFCBA8B7-E37D-4AA3-B716-F666936A4708"
-    },
-    {
-      "class": "text",
-      "id": "7DD832A5-1C68-43C1-8B1F-BADA2374102F"
-    },
-    {
       "class": "group",
       "id": "0D3E10CE-025B-4184-B5D2-ABD6635FDC44"
     },
     {
       "class": "group",
-      "id": "B68865FE-F3A6-4571-BCDE-B71377903237"
+      "id": "6DE7B1C6-D16C-4F35-8BF8-D6B13C72E3A8"
     }
   ],
   "name": "Thread Detail-attached",

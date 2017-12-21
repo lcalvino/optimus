@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 151,
-    "y": 160
+    "x": -616,
+    "y": 420
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -47,31 +47,15 @@
     },
     {
       "class": "group",
+      "id": "C42B6DF4-0180-460E-AE8F-1C929D7C7D69"
+    },
+    {
+      "class": "group",
       "id": "12EA5610-6618-41A4-AFC2-A9DC81CAF8C4"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "AAD47CA1-4B21-4B7A-9ED5-247B813F6D6C"
-    },
-    {
-      "class": "text",
-      "id": "CA740330-7AF4-4D3D-9C3A-0B57132C28A2"
-    },
-    {
-      "class": "text",
-      "id": "368F0E54-0529-4A78-A99B-9137745C086A"
-    },
-    {
-      "class": "text",
-      "id": "86583560-DA40-491D-A6D0-67BBA9E40990"
     },
     {
       "class": "group",
       "id": "D8233010-E4C8-4CE3-AB8A-D9E6DD5EB733"
-    },
-    {
-      "class": "group",
-      "id": "EE3DE9C7-A407-4930-BEFB-54BE86502399"
     },
     {
       "class": "group",
