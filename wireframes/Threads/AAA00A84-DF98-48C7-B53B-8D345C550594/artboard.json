@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 692,
+    "height": 667,
     "width": 375,
     "x": -359,
     "y": 160
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -66,20 +66,8 @@
       "id": "8C34C723-38EB-4542-AAC0-6793E658C87C"
     },
     {
-      "class": "shapeGroup",
-      "id": "283217D7-188C-4E8E-87B3-A7E4398FCDBD"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "40721BC0-B5CF-4DA6-946D-D852F10F0BF8"
-    },
-    {
       "class": "group",
-      "id": "ECCE36D2-2C42-4198-8615-C9B662A37E37"
-    },
-    {
-      "class": "text",
-      "id": "0CBB46BC-AE11-40B3-B57E-ED979492F240"
+      "id": "290F0CEC-5AF1-4E25-ABC1-06C252A603C3"
     },
     {
       "class": "group",
@@ -91,14 +79,10 @@
     },
     {
       "class": "group",
-      "id": "68F04B23-7D59-4FBB-8815-BB3DA84F5FDB"
-    },
-    {
-      "class": "group",
       "id": "4BE2E3F7-2F4E-4E41-AAD3-F543B898B083"
     }
   ],
-  "name": "Thread Detail Copy",
+  "name": "Thread Detail",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

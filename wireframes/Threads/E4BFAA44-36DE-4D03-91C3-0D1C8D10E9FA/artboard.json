@@ -26,7 +26,7 @@
     "y": -601
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -114,7 +114,7 @@
       "id": "9EB0E50F-F42E-4723-B1DB-108FD69B894C"
     }
   ],
-  "name": "Thread Detail",
+  "name": "Thread Detail old",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
