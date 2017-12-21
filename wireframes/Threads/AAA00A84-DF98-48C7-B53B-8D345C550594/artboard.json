@@ -26,7 +26,7 @@
     "y": 420
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,10 +47,6 @@
     },
     {
       "class": "group",
-      "id": "3F4986FE-555A-499A-9666-B5AC8CCA0FA3"
-    },
-    {
-      "class": "group",
       "id": "97AE81FF-395D-4FB6-BA93-0915CB03C83E"
     },
     {
@@ -64,6 +60,10 @@
     {
       "class": "group",
       "id": "4BE2E3F7-2F4E-4E41-AAD3-F543B898B083"
+    },
+    {
+      "class": "group",
+      "id": "39ECE575-9B69-4033-881B-86D980F43D50"
     }
   ],
   "name": "Thread Detail",

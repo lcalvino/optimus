@@ -26,7 +26,7 @@
     "y": 420
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,10 +44,6 @@
     {
       "class": "symbolInstance",
       "id": "A9C05E3B-AE4E-47BB-A6AC-AD71861DDC87"
-    },
-    {
-      "class": "group",
-      "id": "C42B6DF4-0180-460E-AE8F-1C929D7C7D69"
     },
     {
       "class": "group",
@@ -72,6 +68,10 @@
     {
       "class": "group",
       "id": "8E44ADAF-4274-4988-992A-89723510004A"
+    },
+    {
+      "class": "group",
+      "id": "1B792440-69D6-45A6-A837-E79D359E6CEB"
     }
   ],
   "name": "Thread Detail-attach",

@@ -48,6 +48,10 @@
     {
       "class": "shapeGroup",
       "id": "102D99B9-F50A-43DA-B316-C281EF534CC6"
+    },
+    {
+      "class": "group",
+      "id": "18EA9D1E-5EA0-4E7C-B190-93AF0C7680A8"
     }
   ],
   "name": "header",
