@@ -40,12 +40,12 @@
     {
       "_class": "overrideValue",
       "overrideName": "D62AD622-40FF-4B70-86FC-14CC450387B0_stringValue",
-      "value": "Thread Details"
+      "value": "My Message Title"
     }
   ],
   "overrides": {
     "84C4D0F4-24B1-4426-807C-4474552F4704": "Thread Detail",
-    "D62AD622-40FF-4B70-86FC-14CC450387B0": "Thread Details"
+    "D62AD622-40FF-4B70-86FC-14CC450387B0": "My Message Title"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
