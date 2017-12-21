@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BEC0EB79-CB1A-4185-BE2B-C8E4A5FB8501",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "NavBar",
+  "nameIsFixed": false,
+  "originalObjectID": "F5982E40-4803-4AD7-B692-71617B51FD75",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "84C4D0F4-24B1-4426-807C-4474552F4704_stringValue",
+      "value": "Roadmap details"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F7BAFA82-FA12-4B40-A3D8-3041FBD48BDA_stringValue",
+      "value": "Session details"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7042E2DE-4B4F-4FD9-B4FB-A3FE6613C529_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "7042E2DE-4B4F-4FD9-B4FB-A3FE6613C529": {
+      "symbolID": ""
+    },
+    "84C4D0F4-24B1-4426-807C-4474552F4704": "Roadmap details",
+    "F7BAFA82-FA12-4B40-A3D8-3041FBD48BDA": "Session details"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8A4C489A-DF1F-455D-BA8A-166F82B9B5C0",
+  "verticalSpacing": 0
+}
