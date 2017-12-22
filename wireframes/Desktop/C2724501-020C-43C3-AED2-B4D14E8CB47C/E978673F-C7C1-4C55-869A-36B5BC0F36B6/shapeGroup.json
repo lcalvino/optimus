@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "9B1A402E-B228-4912-B500-5B303F85712B",
+  "do_objectID": "E978673F-C7C1-4C55-869A-36B5BC0F36B6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 15,
     "width": 15,
-    "x": 156,
+    "x": 515,
     "y": 182
   },
   "hasClickThrough": false,
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "5EF33E22-614E-430B-BFFF-2CBC0541BCF7"
+      "id": "D060F9C1-7DF8-4F58-8CAA-E3C30750648A"
     }
   ],
   "name": "Rectangle 10",
