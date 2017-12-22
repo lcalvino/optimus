@@ -7,20 +7,11 @@
     }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "390A3530-B3A9-44BC-A771-894C63EDD9A4",
+  "do_objectID": "D4CC21C9-9661-4FB2-A91E-00FF28FA5051",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -32,7 +23,7 @@
     "constrainProportions": false,
     "height": 46,
     "width": 72,
-    "x": 139,
+    "x": 497,
     "y": 689
   },
   "glyphBounds": "{{0, 3}, {72, 41}}",
@@ -43,7 +34,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Thread Title Patient",
+  "name": "Thread Title Patient Copy",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

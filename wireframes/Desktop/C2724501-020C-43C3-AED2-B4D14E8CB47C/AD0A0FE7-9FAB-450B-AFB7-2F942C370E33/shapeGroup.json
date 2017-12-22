@@ -1,19 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "C4834805-85A5-4760-99D4-5D920342200C",
+  "do_objectID": "AD0A0FE7-9FAB-450B-AFB7-2F942C370E33",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -25,7 +16,7 @@
     "constrainProportions": true,
     "height": 165,
     "width": 165,
-    "x": 125,
+    "x": 304,
     "y": 581
   },
   "hasClickThrough": false,
@@ -38,10 +29,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "FB7D9805-CE42-47B7-86F7-172DA677D9CD"
+      "id": "CD1D701E-8D3F-4C49-8788-A1FAAE1F6F70"
     }
   ],
-  "name": "Rectangle 3 Copy 28",
+  "name": "Rectangle 3 Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
