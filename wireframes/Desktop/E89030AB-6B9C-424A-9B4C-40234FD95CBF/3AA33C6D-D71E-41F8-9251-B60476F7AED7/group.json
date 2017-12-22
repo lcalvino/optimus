@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "3AA33C6D-D71E-41F8-9251-B60476F7AED7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 95,
+    "width": 272,
+    "x": 707,
+    "y": 90
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2215CE02-7561-481A-BE4B-1BEF367A46C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52D24079-BF97-4050-B971-362B657CFE36"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7496E54B-0316-4756-B708-28DB18FB634F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEBF60BF-B9F8-484B-B1AC-388D5DF34546"
+    },
+    {
+      "class": "text",
+      "id": "3AFB0F08-7B43-4B4F-BF55-B7409F6EDBB9"
+    },
+    {
+      "class": "text",
+      "id": "C6AD9715-14BE-4464-B289-5A5899D85B1A"
+    }
+  ],
+  "name": "Attachments",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
