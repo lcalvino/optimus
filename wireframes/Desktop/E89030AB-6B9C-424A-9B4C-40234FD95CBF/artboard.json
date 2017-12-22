@@ -330,16 +330,20 @@
       "id": "123A403F-8D11-4151-92DF-DABC7E27BDAE"
     },
     {
-      "class": "group",
-      "id": "1EFC2E12-9B1A-4CB2-BE53-70D2882DF1D3"
-    },
-    {
       "class": "shapeGroup",
       "id": "B706D1BE-B92B-426F-9366-B35139357390"
     },
     {
       "class": "shapeGroup",
       "id": "08C04C64-E177-4C24-8B62-5CB354EB71BF"
+    },
+    {
+      "class": "group",
+      "id": "AC780FEE-1B6C-40DF-B9E9-0F8079FB33A6"
+    },
+    {
+      "class": "text",
+      "id": "96027AC2-6EFC-4D49-93BB-A64C27548E2E"
     }
   ],
   "layout": {

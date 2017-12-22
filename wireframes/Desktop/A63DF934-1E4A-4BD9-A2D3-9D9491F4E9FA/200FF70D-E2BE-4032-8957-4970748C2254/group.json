@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "4CDE4F52-B2AE-42EC-B73E-84C7075AFB96",
+  "do_objectID": "200FF70D-E2BE-4032-8957-4970748C2254",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 183,
-    "x": 431,
+    "width": 54,
+    "x": 434,
     "y": 311
   },
   "hasClickThrough": false,
@@ -27,14 +27,10 @@
   "layers": [
     {
       "class": "text",
-      "id": "0EF652E4-6B89-4D86-AE7F-010D2AC833FF"
-    },
-    {
-      "class": "text",
-      "id": "2D55BE52-8CDF-469C-8262-F23F372AAB55"
+      "id": "6DC861DB-CBCB-47D7-B130-C125A7A24CD7"
     }
   ],
-  "name": "Group",
+  "name": "Group 6 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
