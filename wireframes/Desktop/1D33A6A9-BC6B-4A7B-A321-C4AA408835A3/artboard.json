@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1008,
+    "height": 1245,
     "width": 1280,
     "x": 3772,
     "y": -363
@@ -132,10 +132,6 @@
     {
       "class": "shapeGroup",
       "id": "2221320C-5531-4131-AE5F-0EF18B66F2AA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1F151BCD-5299-443F-A398-B233B70F7757"
     },
     {
       "class": "group",
@@ -254,156 +250,8 @@
       "id": "8AEA5DAA-B6BF-4DC3-A782-60AD40057B82"
     },
     {
-      "class": "shapeGroup",
-      "id": "605145A8-248A-4990-A069-A1EAA21828B2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "162D34DB-9619-46DB-9FE3-F475E9EFB1C9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A7BE6F78-84EA-466A-B660-47D25FB954FE"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "4B8927BC-7362-4768-B150-28CE6CB8FDCB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0F25A9CD-A8EE-40D4-8B99-072814E2022C"
-    },
-    {
-      "class": "text",
-      "id": "054F22A9-D8A4-4F03-9029-8B93BF42C32A"
-    },
-    {
-      "class": "text",
-      "id": "44B604E7-EB22-4AEA-94FC-201F072C4972"
-    },
-    {
-      "class": "text",
-      "id": "EFF032DB-2F57-4EBA-BCAF-D3B1A7C78E55"
-    },
-    {
-      "class": "text",
-      "id": "85D1A719-E753-4BB8-9A5D-B87E443DFC62"
-    },
-    {
-      "class": "text",
-      "id": "F8B94A32-26D5-4F34-B120-71D7F7C7AF8A"
-    },
-    {
-      "class": "text",
-      "id": "B4DE3145-4A47-4C93-9D00-C25BC075324F"
-    },
-    {
-      "class": "text",
-      "id": "231DD1EB-2C73-43A2-9FF2-404134E0EEE4"
-    },
-    {
-      "class": "text",
-      "id": "A1023B5A-9952-4858-8237-7E32A86035AC"
-    },
-    {
-      "class": "text",
-      "id": "328BDA54-7BC7-4E18-8726-A2D37735C94A"
-    },
-    {
-      "class": "text",
-      "id": "42247F4F-FD33-4A92-A13D-FB5E90738AD8"
-    },
-    {
-      "class": "text",
-      "id": "00F8B29E-79A7-4065-AF43-7CC5D847EB4C"
-    },
-    {
-      "class": "text",
-      "id": "47998552-A760-43F1-B44F-C946B3E969DF"
-    },
-    {
-      "class": "text",
-      "id": "C5160131-06CC-438F-956B-77B1B6B9DF2E"
-    },
-    {
-      "class": "text",
-      "id": "96DB5DE5-2CEC-4AE0-8BF5-E1C7C8A2C406"
-    },
-    {
-      "class": "text",
-      "id": "22A59013-7994-419D-9E4C-7B261D243C1F"
-    },
-    {
-      "class": "text",
-      "id": "BEB4D359-0E6D-49B5-860C-26370D0DE51D"
-    },
-    {
-      "class": "text",
-      "id": "D5EEEBF2-8EF6-464D-B396-07BB0EB4363D"
-    },
-    {
-      "class": "text",
-      "id": "3DF0511F-C297-4255-86FB-3DBA758A077D"
-    },
-    {
-      "class": "text",
-      "id": "BEEC0C63-4189-4A8A-847E-A7DA7402C824"
-    },
-    {
-      "class": "text",
-      "id": "CD0F7DDD-7FBF-47F0-BA5D-F0F1325893F6"
-    },
-    {
-      "class": "text",
-      "id": "AB2BDC36-B874-4C2F-86AC-C4AF82A13935"
-    },
-    {
-      "class": "text",
-      "id": "E09D5306-6A2F-46D0-9399-6016AF4B41B4"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D127F391-F34F-44E5-92B4-5CD86A705F5E"
-    },
-    {
-      "class": "text",
-      "id": "8916A08C-B849-4726-95D7-F48B552C448B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B426D83A-CE1E-4E61-B7F6-20147C927392"
-    },
-    {
-      "class": "text",
-      "id": "4B2C3291-D01F-46F6-AB4D-FD3C94B749F5"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "312143A3-E556-48E6-911B-68A678E21BA8"
-    },
-    {
-      "class": "text",
-      "id": "4BD5D01C-984B-47DB-AE45-42A67B14BE95"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "EE274174-9834-4B9B-96C7-B13D55ED583C"
-    },
-    {
-      "class": "text",
-      "id": "DCE8FCA7-BBA7-4827-BEE3-36EDA01AD5A8"
-    },
-    {
-      "class": "text",
-      "id": "A5E63C85-EFB3-4869-8927-B90752C9C293"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F898F032-56DD-4565-8FBA-BC845FC0ACA8"
-    },
-    {
-      "class": "text",
-      "id": "F39F3920-F197-4465-9B17-5952BC3D4E84"
+      "class": "group",
+      "id": "6B84B21B-94D5-42E8-9701-8DB3C9C17AC6"
     }
   ],
   "layout": {
