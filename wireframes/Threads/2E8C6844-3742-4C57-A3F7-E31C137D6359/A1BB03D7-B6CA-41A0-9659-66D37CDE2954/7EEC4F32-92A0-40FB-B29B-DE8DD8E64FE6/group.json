@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "7EEC4F32-92A0-40FB-B29B-DE8DD8E64FE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 343,
+    "x": 25,
+    "y": 18
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0B2DFD06-9405-41DB-A8BF-7275EF86F9AC"
+    },
+    {
+      "class": "group",
+      "id": "192E6F2B-3445-4517-8925-061B73C899B9"
+    },
+    {
+      "class": "group",
+      "id": "22AA38B9-ECBF-47F2-819C-8E3B2B8B4D74"
+    },
+    {
+      "class": "group",
+      "id": "75CA448C-64D2-422E-8E2F-E522F10722AC"
+    }
+  ],
+  "name": "Segmented Controller",
+  "nameIsFixed": true,
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"direction\":\"column\",\"IsEnabled\":false,\"height\":\"auto\",\"isBounds\":false,\"margin\":[],\"padding\":[],\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"width\":\"auto\"}"
+        }
+      }
+    }
+  }
+}

@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -816,
-    "y": -604
+    "x": -1047,
+    "y": -725
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -59,10 +59,6 @@
     },
     {
       "class": "group",
-      "id": "250827F7-EA2E-4569-94DA-06E937021C1E"
-    },
-    {
-      "class": "group",
       "id": "1CBB0244-F249-4938-AE4D-C28C31C7315D"
     },
     {
@@ -72,6 +68,10 @@
     {
       "class": "text",
       "id": "88CD756C-BFF1-470A-8D2A-CDC7B95B686F"
+    },
+    {
+      "class": "group",
+      "id": "AE78FABE-9153-463D-93B6-A8B979F83548"
     }
   ],
   "name": "Threads",

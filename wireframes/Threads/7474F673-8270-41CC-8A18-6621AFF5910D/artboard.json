@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
+    "height": 744,
     "width": 375,
-    "x": 110,
-    "y": -601
+    "x": -119,
+    "y": -725
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -79,7 +79,23 @@
     },
     {
       "class": "group",
-      "id": "791BE14A-E144-4082-ACDD-90872CD6FC07"
+      "id": "F60E8748-3390-4992-8FD4-833335AF8C11"
+    },
+    {
+      "class": "text",
+      "id": "F9CAD8D1-829C-4A03-A051-665D664922C7"
+    },
+    {
+      "class": "text",
+      "id": "57725613-90EB-4833-A2F1-D0AD53EB8100"
+    },
+    {
+      "class": "text",
+      "id": "A65AE26C-DD7C-4A93-AE79-D0A2413E2BC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CB93A14-6316-4A2D-ABDC-369BF9924542"
     }
   ],
   "layout": {
